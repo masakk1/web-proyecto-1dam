@@ -90,10 +90,14 @@ nav {
 }
 
 .transicion {
-    height: 120px;
+    height: 30px;
     background: linear-gradient(
         to bottom,
+<<<<<<< HEAD
         rgba(2, 60, 0, 0.9),
+=======
+        rgba(0,0,0,0.4),
+>>>>>>> b15c641f9335a97e1060d0c81c601a0cdd4ab5e6
         #f5f5f5
     );
 }
